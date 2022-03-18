@@ -3,10 +3,6 @@
  */
 const clockInterval = 100;
 
-/**
- * Search engine query url
- */
-
 const tabKeyCode = 9;
 const enterKeyCode = 13;
 const escapeKeyCode = 27;
