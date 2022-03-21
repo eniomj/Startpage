@@ -27,7 +27,7 @@ html {
 
 body {
     align-items: center;
-    background-color: #1f1f1f;
+    background-color: #1f2122; /* #1f1f1f */
     color: #ddd;
     display: flex;
     height: 100%;
